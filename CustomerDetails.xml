@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<customerDetails>
+<customer id="1001">
+<firstname>Tina</firstname>
+<lastname>Rawat</lastname>
+<place>Pune</place>
+<accountNo>283749236121</accountNo>
+<phone>7869547861</phone>
+<email_id>priyan.singh@gmail.com</email_id>
+<statrtingFrom>01/08/2018</startingFrom>
+<statrtingTo>31/08/2018</startingTo>
+<openingBalance>$4000</openingBalance>
+<closingBalance>$2000</closingBalance>
+<totalExpenditure>$2000</totalExpenditure>
+</customer>
+</customerDetails>
